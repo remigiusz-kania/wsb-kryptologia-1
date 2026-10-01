@@ -2,6 +2,10 @@
 
 Simple console program implementing a permutation cipher.
 
+## Authors
+Remigiusz Kania - 166180
+Filip Boś - 167161
+
 ## Requirements
 
 - Python 3
